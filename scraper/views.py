@@ -24,7 +24,7 @@ def get_market_data(request):
 
     try:
 
-        driver.get("https://cointelegraph.com/tags/markets")
+        driver.get("******************************")
 
         time.sleep(3)
 
